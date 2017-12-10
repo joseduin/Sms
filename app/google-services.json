@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "332484744308",
+    "firebase_url": "https://fox-hound-sms.firebaseio.com",
+    "project_id": "fox-hound-sms",
+    "storage_bucket": "fox-hound-sms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332484744308:android:085c582b0192f652",
+        "android_client_info": {
+          "package_name": "foxhound.ocelotsms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332484744308-7ogcj1jf5qagdlb4pjaghdcktafa1f6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXZWh6VwAH_6dm_ODCqvl5l1RtPOhG9-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

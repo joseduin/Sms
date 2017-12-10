@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ocelot SMS</string>
+
+    <string name="notificaciones_activas">Activar Envio SMS</string>
+    <string name="notificaciones_inactivas">Desactivar Envio SMS</string>
+
+    <string name="topic">foxhoundsms</string>
+
+    <string name="preference_name">AndroidHivePref</string>
+    <string name="preference_mode">0</string>
+
+
+</resources>
